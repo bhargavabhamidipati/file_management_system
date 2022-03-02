@@ -1,0 +1,20 @@
+Instruction to run the client_server file management:
+
+the folder contains:
+aclient2.0.py
+aserver2.0.py
+instructions.txt
+password.txt
+sample.txt
+server_functions.py
+test_report.pdf
+tests.py
+userid.txt
+work_with_files.py
+
+step1:run the aserver2.0.py first
+step2:run the aclient2.0.py next and type the commands in the format mentioned in the list
+
+all the inputs and file names are case sensitive!!!!!
+
+
